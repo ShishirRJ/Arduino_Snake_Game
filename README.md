@@ -21,13 +21,13 @@ A classic Snake game implemented on Arduino, controlled with an analog joystick 
 To bring this Snake Game to life, we've utilized the following components:
 **Arduino UNO**: The microcontroller used here is Arduino UNO. Arduino NANO will also work instead.
 
-**LED Matrix (MAX7219)**: The game grid, snake, food, and obstacles are displayed here.
+**LED Matrix with MAX7219 driver**: The game grid, snake, food, and obstacles are displayed here.
 
 **Analog Joystick**: Control the snake's movements (up, down, left, right) with this.
 
 **Piezo Buzzer**: Experience an opening and closing tune when you start and end the game.
 
-**7-Segment Display (TM1637)**: Keep track of your score throughout the game.
+**7-Segment Display with TM1637 driver**: Keep track of your score throughout the game.
 
 **Potentiometer**: Adjust the game's difficulty by controlling the speed of the snake.
 
