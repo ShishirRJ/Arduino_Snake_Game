@@ -1,15 +1,15 @@
 # Snake Game with Arduino and Joystick
 
 ## Table of Contents:
-* Project Title
-* Project Description
-* Devices Used
-* Wiring Diagram
-* Installation
-* How to Play
-* Customization
-* Credits
-* License
+* [Project Title](https://github.com/ShishirRJ/Arduino_Snake_Game/blob/main/README.md#1-project-title)
+* [Project Description](https://github.com/ShishirRJ/Arduino_Snake_Game/blob/main/README.md#2-project-description)
+* [Devices Used](https://github.com/ShishirRJ/Arduino_Snake_Game/blob/main/README.md#3-devices-used)
+* [Wiring Diagram](https://github.com/ShishirRJ/Arduino_Snake_Game/blob/main/README.md#4-wiring-diagram)
+* [Installation](https://github.com/ShishirRJ/Arduino_Snake_Game/blob/main/README.md#5-installation)
+* [How to Play](https://github.com/ShishirRJ/Arduino_Snake_Game/blob/main/README.md#6-how-to-play)
+* [Customization](https://github.com/ShishirRJ/Arduino_Snake_Game/blob/main/README.md#7-customization)
+* [Credits](https://github.com/ShishirRJ/Arduino_Snake_Game/blob/main/README.md#8-credits)
+* [License](https://github.com/ShishirRJ/Arduino_Snake_Game/blob/main/README.md#9-license)
 
 ### 1. Project Title
 Snake Game using Arduino Controlled by Joystick
