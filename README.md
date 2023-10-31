@@ -23,9 +23,9 @@ To bring this Snake Game to life, we've utilized the following components:
 
 **LED Matrix with MAX7219 driver**: The game grid, snake, food, and obstacles are displayed here.
 
-**Analog Joystick**: Control the snake's movements (up, down, left, right) with this.
+**Analog Joystick (Arduino Dual Axis JoyStick Module)**: Control the snake's movements (up, down, left, right) with this.
 
-**Piezo Buzzer**: Experience an opening and closing tune when you start and end the game.
+**Piezo Buzzer (YL-44)**: Experience an opening and closing tune when you start and end the game.
 
 **7-Segment Display with TM1637 driver**: Keep track of your score throughout the game.
 
