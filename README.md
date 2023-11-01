@@ -46,13 +46,13 @@ To bring this Snake Game to life, we've utilized the following components:
 |Potentiometer|A0|
 
 ### 5. Installation
-**1. Hardware Setup:**
+#### **1. Hardware Setup:**
 * Connect the LED Matrix (MAX7219) to your Arduino following manufacturer guidelines.
 * Connect the Analog Joystick to your Arduino.
 * Incorporate the Piezo Buzzer for sound effects.
 * Display your score using the 7-Segment Display (TM1637).
 * Use the Potentiometer to adjust the snake's speed.
-**2. Software Setup:**
+#### **2. Software Setup:**
 * Install the Arduino IDE if not already installed.
 * Download the Snake Game code and upload it to your Arduino board.
 
