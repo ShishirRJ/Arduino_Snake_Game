@@ -27,9 +27,11 @@ To bring this Snake Game to life, we've utilized the following components:
 
 **Piezo Buzzer (YL-44)**: Experience an opening and closing tune when you start and end the game.
 
-**7-Segment Display with TM1637 driver**: Keep track of your score throughout the game.
+**7-Segment Display with TM1637 driver**: Keep track of your score throughout the game and display highscore.
 
 **Potentiometer**: Adjust the game's difficulty by controlling the speed of the snake.
+
+**Jumper cables and Resistors**: Used to connect the components to the breadboard and Arduino.
 
 ### 4. Wiring Diagram
 |Device|Pin Number|
@@ -42,7 +44,7 @@ To bring this Snake Game to life, we've utilized the following components:
 |Piezo Buzzer|10|
 |Joystick SW|2|
 |Joystick X|A1|
-|Joystic Y|A2|
+|Joystick Y|A2|
 |Potentiometer|A0|
 
 ### 5. Installation
@@ -60,7 +62,7 @@ To bring this Snake Game to life, we've utilized the following components:
 * Upon uploading the code to your Arduino, the game will begin, with an opening song played by the piezo buzzer.
 * Use the joystick to guide the snake, collecting food represented as dots on the LED matrix.
 * Each time the snake eats, it grows in length.
-* Be cautious and avoid collisions with the wall or the snake's own body, as this will terminate the game.
+* Be cautious and avoid collisions the snake's own body, as this will terminate the game.
 * Your score is displayed on the 7-segment display.
 * The game ends with a closing song played by the piezo buzzer when you lose. You can restart the game by resetting the Arduino or by pressing the button on the Analog Joystick.
 
@@ -76,3 +78,9 @@ Feel free to personalize this project by modifying the code. Adjust the game's r
 This project is open-source and distributed under the MIT License, which allows you to use, modify, and distribute the code while giving appropriate credit to the original work.
 
 Enjoy playing your Snake Game with Arduino and Joystick!
+
+### 10. Contributions
+1. Shishir Ravi Jois (23EC01042)
+2. B Ganesh (23EC01009)
+3. Shrinivas B M (23EC01043)
+4. Sandeep K (23EC01041)
