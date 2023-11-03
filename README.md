@@ -80,7 +80,7 @@ This project is open-source and distributed under the MIT License, which allows 
 Enjoy playing your Snake Game with Arduino and Joystick!
 
 ### 10. Contributions
-1. Shishir Ravi Jois (23EC01042)
-2. B Ganesh (23EC01009)
-3. Shrinivas B M (23EC01043)
-4. Sandeep K (23EC01041)
+1. Shishir Ravi Jois (23EC01042) Github- ShishirRJ
+2. B Ganesh (23EC01009) Github- BommisettyGanesh
+3. Shrinivas B M (23EC01043) Github- Air-36
+5. Sandeep K (23EC01041) Github- SandeepK2023
