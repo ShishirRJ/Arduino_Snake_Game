@@ -10,7 +10,7 @@
 * [Customization](https://github.com/ShishirRJ/Arduino_Snake_Game/blob/main/README.md#7-customization)
 * [Credits](https://github.com/ShishirRJ/Arduino_Snake_Game/blob/main/README.md#8-credits)
 * [License](https://github.com/ShishirRJ/Arduino_Snake_Game/blob/main/README.md#9-license)
-* [Contributions]()
+* [Contributions](https://github.com/ShishirRJ/Arduino_Snake_Game/tree/main#10-contributions)
 * [Links]()
 
 ### 1. Project Title
@@ -86,3 +86,6 @@ Enjoy playing your Snake Game with Arduino and Joystick!
 2. B Ganesh (23EC01009) Github- BommisettyGanesh
 3. Shrinivas B M (23EC01043) Github- Air-36
 5. Sandeep K (23EC01041) Github- SandeepK2023
+
+### 11. Links
+Demo Video- 
