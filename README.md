@@ -11,7 +11,7 @@
 * [Credits](https://github.com/ShishirRJ/Arduino_Snake_Game/blob/main/README.md#8-credits)
 * [License](https://github.com/ShishirRJ/Arduino_Snake_Game/blob/main/README.md#9-license)
 * [Contributions](https://github.com/ShishirRJ/Arduino_Snake_Game/tree/main#10-contributions)
-* [Links]()
+* [Links](https://github.com/ShishirRJ/Arduino_Snake_Game/tree/main#10-contributions)
 
 ### 1. Project Title
 Snake Game using Arduino Controlled by Joystick
